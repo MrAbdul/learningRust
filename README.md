@@ -32,7 +32,7 @@ Feel free to explore the projects in any order. Some are simpler than others, bu
 
 ## Projects
 
-### 1. Book Library System
+### 1. [Book Library System](book-library/README.md)
 **Concepts**: Structs, methods, ownership, references  
 **Description**:  
 A small program that models a basic library system.
@@ -43,7 +43,7 @@ A small program that models a basic library system.
 **Key Files**:
 - [book-library/src/main.rs](book-library/src/main.rs)
 
-### 2. Shape Calculator
+### 2. [Shape Calculator](shape-calculator/README.md)
 **Concepts**: Structs, traits, methods  
 **Description**:  
 Calculates areas and perimeters/circumferences for shapes.
