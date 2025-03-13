@@ -11,3 +11,4 @@
 /.idea/learningRust.iml
 /.idea/modules.xml
 /.idea/vcs.xml
+*/Cargo.lock

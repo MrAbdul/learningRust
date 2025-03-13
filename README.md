@@ -41,7 +41,7 @@ A small program that models a basic library system.
 - Demonstrates how to handle `Option<&Book>` or `Option<&mut Book>` for lookups
 
 **Key Files**:
-- [basicbooklibrary/src/main.rs](book-library/src/main.rs)
+- [book-library/src/main.rs](book-library/src/main.rs)
 
 ### 2. Shape Calculator
 **Concepts**: Structs, traits, methods  
@@ -52,7 +52,7 @@ Calculates areas and perimeters/circumferences for shapes.
 - (Optional) An enum `Shape` to hold different shape variants
 
 **Key Files**:
-- `src/main.rs`
+- [/shape-calculator/src/main.rs](/shape-calculator/src/main.rs)
 
 ### 3. Inventory Tracker
 **Concepts**: Struct update syntax, mutable references, vector iteration  
