@@ -101,6 +101,7 @@ fn main() {
     library.delete_book_by_title("title3");
     library.print_books();
     library.borrow_book("title3","ahmad");
+    library.print_books();
 
 
 }
