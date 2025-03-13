@@ -7,3 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 */target/*
+/basicbooklibrary/Cargo.lock
+/.idea/learningRust.iml
+/.idea/modules.xml
+/.idea/vcs.xml
