@@ -54,7 +54,7 @@ Calculates areas and perimeters/circumferences for shapes.
 **Key Files**:
 - [/shape-calculator/src/main.rs](/shape-calculator/src/main.rs)
 
-### 3. Inventory Tracker
+### 3. [Inventory Tracker](inventory-tracker/README.md)
 **Concepts**: Struct update syntax, mutable references, vector iteration  
 **Description**:  
 A program that tracks items in an inventory.
@@ -63,7 +63,7 @@ A program that tracks items in an inventory.
 - Methods to add, update, and calculate the total value of all items
 
 **Key Files**:
-- `src/main.rs`
+- [/inventory-tracker/src/main.rs](/inventory-tracker/src/main.rs)
 
 ### 4. User Profile Manager
 **Concepts**: Option types, pattern matching, method design  
